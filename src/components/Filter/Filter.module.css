@@ -6,7 +6,7 @@
 }
 .inputFilter {
   margin-top: 10px;
-  border-color: blue;
+  border-color: rgb(0, 0, 0);
 }
 .inputFilter:focus {
   border-color: red;
