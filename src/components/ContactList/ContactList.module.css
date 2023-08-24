@@ -1,0 +1,12 @@
+.contactItems {
+  width: 500px;
+  margin: 40px 0 30px 30px;
+  font-size: 30px;
+}
+.contactItem {
+  display: flex;
+  margin-top: 15px;
+  margin-left: 20px;
+  justify-content: space-between;
+  font-size: 25px;
+}

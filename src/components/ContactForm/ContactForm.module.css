@@ -1,0 +1,30 @@
+.formContact {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  align-items: flex-start;
+  padding: 10px;
+  width: 350px;
+  height: 200px;
+  border: black solid 1px;
+}
+.labelContact {
+  display: flex;
+
+  flex-direction: column;
+  font-size: 20px;
+}
+
+.inputContact:focus {
+  border: blue solid 2px;
+}
+
+.btnSubmit {
+  display: block;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 8px;
+}
